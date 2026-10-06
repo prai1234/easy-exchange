@@ -1,3 +1,5 @@
+import React from 'react'
+
 export default function BookCard({ book, onView }) {
   return (
     <article className="book-card">
